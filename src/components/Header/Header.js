@@ -17,10 +17,10 @@ const Header = ({ toggle }) => {
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects">
-            Projects
+            Experiences
           </NavLink>
 
-          {/* Certifications Dropdown */}
+          {/* Certifications Dropdown
           <div className="menu-item">
             <NavLink
               className="menu-item"
@@ -50,7 +50,7 @@ const Header = ({ toggle }) => {
                 </a>
               </div>
             )}
-          </div>
+          </div> */}
 
           <NavLink className="menu-item" to="about">
             About
