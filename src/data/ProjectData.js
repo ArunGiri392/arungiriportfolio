@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
-import img from "./scamemail-image.jpeg";
+import img from "./arunmicrosoft.jpg";
 import bot from "./trading_bot.png";
-import college from "./collegehub.jpeg";
+import college from  "./arunbadge.jpg"
 export const ProjectList = [
   {
     img: bot,

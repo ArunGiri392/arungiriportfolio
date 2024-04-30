@@ -25,6 +25,13 @@ function About() {
             I am currently working as a Full stack Engineer at Algorizin.
         
             </ScrollAnimation>
+            <br />
+            <br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+            I am currently a Full Stack Developer at Algorizin, Inc., where I've developed Algorizin Copilot, a platform that significantly streamlines legal procedures for international students. My work includes enhancing user engagement by 25% through a fine-tuned GPT model, improving legal compliance by 40% with an AI-powered application, and reducing business start-up times by 30% with advanced data processing features. My projects leverage technologies like Next.js, Node.js, and TypeScript to facilitate efficient, technology-driven solutions
+        
+            </ScrollAnimation>
 
             <br />
             <br />
