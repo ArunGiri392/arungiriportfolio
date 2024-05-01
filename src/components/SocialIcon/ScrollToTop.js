@@ -21,18 +21,18 @@ const StyledArrowIcon = styled(MdKeyboardArrowUp)`
   box-shadow: 0px 4px 20px rgba(160, 170, 180, 0.6);
 `;
 
-const ChatbotIcon = styled(FaRocketchat)`
-  background-color: #007bff;
-  position: absolute;
-  font-size: 10rem;
-  padding: 5px;
+// const ChatbotIcon = styled(FaRocketchat)`
+//   background-color: #007bff;
+//   position: absolute;
+//   font-size: 10rem;
+//   padding: 5px;
 
-  box-shadow: 0px 4px 20px rgba(160, 170, 180, 0.6);
-  cursor: pointer;
-  &:hover {
-    color: rgb(57, 134, 250);
-  }
-`;
+//   box-shadow: 0px 4px 20px rgba(160, 170, 180, 0.6);
+//   cursor: pointer;
+//   &:hover {
+//     color: rgb(57, 134, 250);
+//   }
+// `;
 
 function ScrollToTop() {
   const [open, setOpen] = useState(false);

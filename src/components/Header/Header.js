@@ -3,11 +3,11 @@ import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 import "./style.css";
 
 const Header = ({ toggle }) => {
-  const [isCertificationsOpen, setIsCertificationsOpen] = useState(false);
+  // const [isCertificationsOpen, setIsCertificationsOpen] = useState(false);
 
-  const handleCertificationsClick = () => {
-    setIsCertificationsOpen(!isCertificationsOpen);
-  };
+  // const handleCertificationsClick = () => {
+  //   setIsCertificationsOpen(!isCertificationsOpen);
+  // };
 
   return (
     <div className="Container" style={{ padding: 0 }}>
